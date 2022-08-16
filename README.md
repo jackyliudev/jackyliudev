@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Currently a Software Engineer, I am motivated to change the world one website at a time with a background in Mechanical Engineering
+Currently a Software Engineer, I am motivated to help you create your dream website.
 
 See [my website](https://jackyliudev.netlify.com) for more information!
 
